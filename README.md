@@ -1,0 +1,1 @@
+A simple Python-based dice board game where multiple players roll dice to reach the final cell first. Built using OOP concepts (Grid and Player classes). The game can be made more modular as per future use cases.
